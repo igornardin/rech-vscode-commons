@@ -1,6 +1,6 @@
 # rech-vscode-commons README
 
-Na pasta SRC existem 3 diretórios.
+O arquivo extension.ts é o que eu utilizo para testar as macros criadas. Na pasta SRC existem 3 diretórios.
 
 # Commons
 
